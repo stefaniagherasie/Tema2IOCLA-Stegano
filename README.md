@@ -3,6 +3,7 @@
 
 
 TASK1
+
 Task-ul 1 presupune implementarea unui Bruteforce pe XOR cu cheie de un octet.
 S-a realizat functia task1 care obtine cheia si linia la care se afla mesajul
 care contine cuvantul "revient". Aceasta testeaza pentru fiecare numar din 
@@ -17,6 +18,7 @@ Functia print_message afiseaza mesajul de la linia gasita dupa xorarea fiecarui
 element cu cheia pana la intalnirea terminatorului de sir.
 
 TASK2
+
 Task-ul 2 preupune decodificarea mesajului cu cheia gasita anterior, adaugarea
 unui mesaj pe linia urmatoare celei pe care se afla mesajul gasit inainte si
 apoi codificarea folosind o noua cheie. Se extrage linia si cheia apeland
